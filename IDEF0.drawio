@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-19T03:44:01.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="9C1vHUNIOVKNRp155V_0" version="12.2.6" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-11-19T03:45:17.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="gXh8XZ9k-bO9ubFmlIry" version="12.2.6" type="github" pages="4">
   <diagram id="WLNz_JeOkCuF1lvA0DDx" name="IDEF0">
-    <mxGraphModel dx="1423" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="854" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -51,7 +51,7 @@
         <mxCell id="WoYGGvKJQsT9pTa803iR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.109;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" parent="1" source="e4GeV-gsREloU6y9Ad34-17" target="e4GeV-gsREloU6y9Ad34-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="e4GeV-gsREloU6y9Ad34-17" value="ПО" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="e4GeV-gsREloU6y9Ad34-17" value="ИС" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="456.5" y="590" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="WoYGGvKJQsT9pTa803iR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.81;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" parent="1" source="e4GeV-gsREloU6y9Ad34-18" target="e4GeV-gsREloU6y9Ad34-1" edge="1">
